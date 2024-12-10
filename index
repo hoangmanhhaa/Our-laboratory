@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phòng Lab Nghiên cứu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Phần Menu -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <!-- Chỗ để logo -->
+                <img src="logo.png" alt="Logo" height="50">
+            </div>
+            <div class="nav-links">
+                <a href="#">Trang chủ</a>
+                <a href="#">Nghiên cứu</a>
+                <a href="#">Xuất bản</a>
+                <a href="#">Đội ngũ</a>
+                <a href="#">Liên hệ</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Phần Nội dung chính -->
+    <main class="main-content">
+        <div class="hero-section">
+            <h1>Chào mừng đến với Phòng Lab của chúng tôi</h1>
+            <p>Chúng tôi là nhóm nghiên cứu về [điền lĩnh vực của bạn]</p>
+        </div>
+
+        <div class="research-areas">
+            <h2>Các lĩnh vực nghiên cứu</h2>
+            <ul>
+                <li>[Điền lĩnh vực 1]</li>
+                <li>[Điền lĩnh vực 2]</li>
+                <li>[Điền lĩnh vực 3]</li>
+            </ul>
+        </div>
+
+        <div class="contact-section">
+            <h2>Liên hệ</h2>
+            <p>Email: [điền email của bạn]</p>
+            <p>Địa chỉ: [điền địa chỉ của bạn]</p>
+        </div>
+    </main>
+
+    <!-- Phần Footer -->
+    <footer>
+        <p>© 2024 [Tên Phòng Lab]. Mọi quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html>
